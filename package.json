@@ -1,0 +1,19 @@
+{
+  "name": "user-registration-landing-page",
+  "version": "1.0.0",
+  "description": "user-registration-landing-page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jabbala/user-registration-landing-page.git"
+  },
+  "author": "Gunasekar Jabbala",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jabbala/user-registration-landing-page/issues"
+  },
+  "homepage": "https://github.com/jabbala/user-registration-landing-page#readme"
+}
